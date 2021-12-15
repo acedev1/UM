@@ -1,0 +1,1 @@
+export const proxyUrl = "http://pulserankings.com/index.php/";
